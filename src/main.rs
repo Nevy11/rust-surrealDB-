@@ -70,4 +70,5 @@ how to connect rust backend with angular front end
 using postman
 diesel with rust
 cargo-watch
+how to host your rust code for free
 */
